@@ -16,7 +16,7 @@ module.exports = {
         shadow: 'rgba(35,83,71,0.4)', // sombra
       },
       boxShadow: {
-      glow: '0 0 10px rgba(43, 97, 38, 0.66), 0 0 50px rgba(190, 229, 182, 0.57)'
+      glow: '0 0 10px rgba(48, 208, 236, 0.66), 0 0 50px rgba(190, 229, 182, 0.57)'
 },
       fontFamily: {
         sans: ['Inter', 'system-ui', 'ui-sans-serif', 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', 'sans-serif'],
