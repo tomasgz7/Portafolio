@@ -83,4 +83,42 @@ I approach every project with a **product mindset**, focusing on:
 
 ### 🖥️ **Resilience Media Group**
 > Corporate website focused on performance and scalability.  
-**Te**
+**Tech:** React · CSS3 · GitHub  
+🔗 [View Repository](https://github.com/tomasgz7/resilience-media)
+
+---
+
+### 📦 **Kronner Logistics**
+> Shipping tracking web app built with Node.js and JavaScript.  
+**Tech:** Node.js · JavaScript · GitHub  
+🔗 [View Repository](https://github.com/tomasgz7/kronner-logistics)
+
+---
+
+### 🎧 **Podcast Channel**
+> Responsive static website made with HTML, CSS, and JavaScript.  
+**Tech:** HTML5 · CSS3 · JavaScript · GitHub  
+🔗 [View Repository](https://github.com/tomasgz7/podcast-channel)
+
+---
+
+## 🤝 Let's Work Together
+
+I’m actively seeking **new opportunities** to grow as a developer and contribute to innovative projects.  
+If you’re looking for someone who’s proactive, detail-oriented, and constantly improving — let’s connect.
+
+📬 **[Email Me](mailto:tomasgz.dev@gmail.com)**  
+💼 **[LinkedIn](https://linkedin.com/in/tomasguzman7)**  
+💻 **[GitHub](https://github.com/tomasgz7)**  
+
+---
+
+### 🧩 Quick Facts
+- 🌎 Based in Buenos Aires, Argentina  
+- 🧠 Self-taught mindset & lifelong learner  
+- 💬 Fluent in English & Spanish  
+- 🚀 Focused on clean code, UX, and performance
+
+---
+
+**© 2025 Tomas Guzman — Designed & developed by me using Astro.**
