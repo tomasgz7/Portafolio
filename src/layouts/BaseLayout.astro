@@ -1,0 +1,14 @@
+---
+import '../../styles/globals.css';
+const { title = 'Tomas Guzman – Portfolio' } = Astro.props;
+---
+<html lang="en" class="toji-bg">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+  </head>
+  <body class="font-sans">
+    <slot />
+  </body>
+</html>
