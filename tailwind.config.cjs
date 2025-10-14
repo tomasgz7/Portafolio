@@ -10,7 +10,7 @@ module.exports = {
         backgroundAlt: '#0B2B26', // fondo secundario
         backgroundDeep: '#163832', // intermedio profundo
         border: '#235347', // detalles y bordes
-        accent: '#8EB69B', // acento
+        accent: '#0585e6', // Fuente principal
         foreground: '#DAF1DE', // texto claro
         divider: 'rgba(35,83,71,0.25)', // líneas y bordes suaves
         shadow: 'rgba(35,83,71,0.4)', // sombra
