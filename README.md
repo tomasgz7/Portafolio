@@ -107,7 +107,7 @@ I approach every project with a **product mindset**, focusing on:
 I’m actively seeking **new opportunities** to grow as a developer and contribute to innovative projects.  
 If you’re looking for someone who’s proactive, detail-oriented, and constantly improving — let’s connect.
 
-📬 **[Email Me](mailto:tomasgz.dev@gmail.com)**  
+📬 **[Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=tomasgz.dev@gmail.com)**  
 💼 **[LinkedIn](https://linkedin.com/in/tomasguzman7)**  
 💻 **[GitHub](https://github.com/tomasgz7)**  
 
