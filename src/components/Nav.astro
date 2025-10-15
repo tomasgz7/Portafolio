@@ -1,19 +1,20 @@
 ---
 const items = [
-  { id: 'about', label: '01. About' },
-  { id: 'technologies', label: '02. Technologies' },
-  { id: 'experience', label: '03. Experience' },
-  { id: 'education', label: '04. Education' },
-  { id: 'projects', label: '05. Projects' },
-  { id: 'contact', label: '06. Contact' },
+  { id: 'about', label: '01. Perfil Profesional' },
+  { id: 'technologies', label: '02. Stack Tecnológico' },
+  { id: 'experience', label: '03. Experiencia' },
+  { id: 'education', label: '04. Formación' },
+  { id: 'projects', label: '05. Proyectos Destacados' },
+  { id: 'contact', label: '06. Contacto' },
 ];
+
 ---
 <nav class="fixed left-0 top-0 h-screen w-80 hidden lg:flex flex-col z-50 px-12 py-10">
   <div class="flex-1 flex flex-col justify-center">
     <ul class="flex flex-col gap-8 -mt-24">
       <li class="flex items-center gap-4 mb-10">
         <span class="block w-10 h-px bg-secondary"></span>
-        <a href="#" class="uppercase tracking-wide text-foreground/80 hover:text-accent font-semibold text-base transition-all">Home</a>
+        <a href="#" class="uppercase tracking-wide text-foreground/80 hover:text-accent font-semibold text-base transition-all">Inicio</a>
       </li>
       {items.map((it) => (
         <li key={it.id} class="flex items-center gap-4">

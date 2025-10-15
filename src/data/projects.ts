@@ -1,22 +1,25 @@
 export const projects = [
   {
     name: 'Resilience Media Group',
-    description: 'rototype website for a marketing and logistics agency, built with HTML, Tailwind CSS, and JavaScript. Showcases services like digital marketing, messaging solutions, and logistics coordination through a modern and responsive design.',
-    stack: ['HTML5','Tailwind CSS','Javascript'],
+    description:
+      'Sitio web corporativo desarrollado con React, JavaScript, HTML5 y CSS3. Optimizado para rendimiento, accesibilidad y SEO, priorizando la mantenibilidad del código y la claridad visual. Lideré la arquitectura y la implementación técnica del proyecto, garantizando escalabilidad y coherencia en el diseño.',
+    stack: ['React', 'JavaScript', 'HTML5', 'CSS3'],
     github: 'https://github.com/tomasgz7/PaginaResilience',
-    demo: 'resiliencemediagroup.netlify.app'
+    demo: 'https://resiliencemediagroup.netlify.app'
   },
   {
-    name: 'Kronner Logistics',
-    description: 'Prototype logistics website built with HTML, CSS, and JavaScript. Includes a functional contact form powered by Node.js + Express, featuring a clean, responsive, and modern UI. Designed to showcase a professional delivery service concept.',
-    stack: ['HTML5', 'CSS3', 'JavaScript', 'Node'],
+    name: 'Kronner – Plataforma de Logística',
+    description:
+      'Prototipo funcional de gestión logística desarrollado con Node.js (Express) y JavaScript. Diseñado con enfoque en modularidad, validaciones y estructura adaptable, asegurando una base sólida para escalar funcionalidades y mejorar la comunicación con el usuario.',
+    stack: ['Node.js', 'Express', 'JavaScript', 'HTML5', 'CSS3'],
     github: 'https://github.com/tomasgz7/PaginaKronner',
     demo: 'https://kronner-logistica-prototipo.netlify.app/'
   },
   {
-    name: 'Budget Manager',
-    description: 'A simple and intuitive web app to manage your personal finances. Set your total budget, add expenses (with name and amount), and track your remaining funds in real time. All data is saved in LocalStorage, ensuring it persists even after reloading or closing the browser.',
-    stack: ['HTML5', 'CSS3', 'JavaScript', 'React Js'],
+    name: 'Administrador de fondos',
+    description:
+      'Aplicación web de gestión de gastos personales desarrollada con React. Permite registrar presupuestos y movimientos con persistencia en LocalStorage, actualización en tiempo real y lógica de validación optimizada. Diseñada con foco en experiencia de usuario y estructura mantenible.',
+    stack: ['React.js', 'JavaScript', 'HTML5', 'CSS3'],
     github: 'https://github.com/tomasgz7/CodeChallenge-ADF',
     demo: 'https://fondos-codechallenge.netlify.app/'
   }
