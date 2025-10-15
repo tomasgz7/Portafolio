@@ -1,124 +1,99 @@
-# 🌐 Tomas Guzman — Portfolio
+#  Portafolio — Tomas Guzman
 
-![Astro](https://img.shields.io/badge/Built%20with-Astro-1d1d1f?logo=astro)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?logo=css3&logoColor=white)
-![Status](https://img.shields.io/badge/Deployed%20on-Netlify-00c7b7?logo=netlify&logoColor=white)
+> Sitio personal desarrollado con **Astro**, **TypeScript** y **TailwindCSS**.  
+> Presenta mi perfil técnico, proyectos y experiencia en un formato limpio, rápido y accesible.
 
-> ✨ A modern, performant, and fully responsive portfolio built with **Astro**, showcasing my professional journey as a **Frontend Developer** expanding into **Full-Stack Development**.
-
-🔗 **Live site:** [https://tomasguzmandev.netlify.app](https://tomasguzmandev.netlify.app)
+🔗 **Versión en línea:** [https://tomasguzmandev.netlify.app](https://tomasguzmandev.netlify.app)
 
 ---
 
-## 🧑‍💻 About Me
+## 🧭 Propósito del proyecto
 
-I’m **Tomas Guzman**, a **Frontend Developer** from **Buenos Aires, Argentina**, passionate about crafting high-performance interfaces that blend clean design with solid engineering.  
+Este portafolio no es una plantilla ni un experimento visual.  
+Es un proyecto armado desde cero para representar cómo pienso y trabajo:  
+**claridad, estructura y decisiones técnicas con fundamento.**
 
-I specialize in **React**, **JavaScript**, and **Astro**, with a growing interest in backend technologies like **Java** and **Spring Boot** — building towards a full-stack profile.  
+Cada sección fue escrita, diseñada y desarrollada con un enfoque en:
+- **Rendimiento real** (Astro + optimización de carga).  
+- **Escalabilidad visual** (Tailwind + sistema de diseño propio).  
+- **Coherencia técnica** entre frontend, arquitectura y contenido.  
 
-I approach every project with a **product mindset**, focusing on:
-- **Performance** — fast, optimized, and accessible web experiences.
-- **Scalability** — clean architecture that grows with the product.
-- **Design harmony** — code that respects UI consistency and visual rhythm.
-
-> I believe great software is not only functional — it should feel effortless to use.
-
----
-
-## ⚙️ Tech Stack
-
-| Area | Technologies |
-|------|---------------|
-| **Frontend** | Astro · React.js · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · TailwindCSS |
-| **Backend (learning)** | Node.js · Express · Java · Spring Boot |
-| **Tools & Platforms** | Git · GitHub · Netlify · Jira · Confluence · Trello · VS Code · Lighthouse |
-| **Design** | Figma *(academic level)* |
-| **Methodologies** | Agile · Scrum · Kanban |
+No busco “impresionar” con efectos; busco mostrar **criterio**.
 
 ---
 
-## 💼 Experience
+## ⚙️ Stack técnico
 
-### **Frontend Developer — Resilience Media Group**
-**Feb 2024 – Mar 2025 · Buenos Aires, Argentina**
+| Categoría | Tecnologías |
+|------------|--------------|
+| **Framework** | Astro |
+| **Lenguaje** | TypeScript |
+| **UI** | TailwindCSS · HTML5 · CSS3 |
+| **Animaciones** | Framer Motion (transiciones suaves) |
+| **Deploy** | Netlify |
+| **Gestión / Diseño** | VS Code · GitHub · Figma |
 
-- Delivered **10+ production-ready websites** using React.js with 100/100 Lighthouse scores.
-- Built and integrated **frontend applications** with Node.js/Express REST APIs.
-- Improved web performance by **40%** through optimization and lazy loading.
-- Automated deployment pipeline with **Netlify CI/CD**, cutting deploy time by 60%.
-- Collaborated within **Agile/Scrum** teams using Jira and Confluence, achieving **95% on-time deliveries**.
-
-**Stack:** React · JavaScript · Node.js · Express · Netlify · Git · Agile
-
----
-
-## 🎓 Education
-
-**Higher Technical Degree in Systems Analysis**  
-📍 *IFTS Nº21 — Buenos Aires, Argentina*  
-🕓 *Mar 2024 – 2026*
-
-**Information Systems Engineering**  
-📍 *UTN FRBA — Buenos Aires, Argentina*  
-🕓 *Confirmed start: 2026*
+El código se mantiene modular, sin dependencias innecesarias, con foco en legibilidad y mantenibilidad.
 
 ---
 
-## 🧠 Certifications & Courses
+## 🧩 Estructura general
 
-- **Web Development (Full Stack Bootcamp)** — *NUCBA*  
-  _HTML · CSS · JavaScript · React · Node.js_
+El sitio está dividido en secciones que representan mi recorrido profesional de forma directa:
 
-- **React – The Complete Guide** — *Udemy*  
-  _React · Hooks · Context API · Redux · Next.js_
-
-- **Modern JavaScript** — *Udemy*  
-  _ES6+ · Async/Await · Promises · OOP_
-
----
-
-## 🚀 Featured Projects
-
-### 🖥️ **Resilience Media Group**
-> Corporate website focused on performance and scalability.  
-**Tech:** React · CSS3 · GitHub  
-🔗 [View Repository](https://github.com/tomasgz7/resilience-media)
+- **Hero:** presentación y enfoque actual.  
+- **Sobre mí:** cómo entiendo el desarrollo y mi forma de trabajar.  
+- **Stack:** tecnologías principales y herramientas reales de trabajo.  
+- **Formación:** base académica y técnica.  
+- **Proyectos:** selección curada de trabajos con impacto.  
+- **Contacto:** accesos directos y forma de comunicación.  
+- **Footer / Nav:** navegación secuencial minimalista con estilo propio.
 
 ---
 
-### 📦 **Kronner Logistics**
-> Shipping tracking web app built with Node.js and JavaScript.  
-**Tech:** Node.js · JavaScript · GitHub  
-🔗 [View Repository](https://github.com/tomasgz7/kronner-logistics)
+## 🧠 Concepto detrás del diseño
+
+El diseño se apoya en una idea: **menos ruido, más intención**.  
+Cada color, sombra y espaciado tiene un propósito funcional.  
+La paleta oscura con acentos fríos refleja un perfil técnico, sobrio y moderno.  
+
+No hay frameworks innecesarios ni dependencias que no aporten valor:  
+todo está hecho para durar y para poder evolucionar con el tiempo.
 
 ---
 
-### 🎧 **Podcast Channel**
-> Responsive static website made with HTML, CSS, and JavaScript.  
-**Tech:** HTML5 · CSS3 · JavaScript · GitHub  
-🔗 [View Repository](https://github.com/tomasgz7/podcast-channel)
+## 🚀 Desarrollo y enfoque técnico
+
+- Proyecto **100% modular** con componentes reutilizables (`.astro`).  
+- **SEO** configurado manualmente con metadatos por página.  
+- **Performance** medida con Lighthouse (puntajes 95+).  
+- Integración **CI/CD** en Netlify.  
+- **Responsividad total**, mobile-first, sin librerías externas.  
 
 ---
 
-## 🤝 Let's Work Together
+## 📂 Código y mantenimiento
 
-I’m actively seeking **new opportunities** to grow as a developer and contribute to innovative projects.  
-If you’re looking for someone who’s proactive, detail-oriented, and constantly improving — let’s connect.
-
-📬 **[Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=tomasgz.dev@gmail.com)**  
-💼 **[LinkedIn](https://linkedin.com/in/tomasguzman7)**  
-💻 **[GitHub](https://github.com/tomasgz7)**  
+El código está documentado y pensado para que cualquier desarrollador pueda entenderlo sin explicaciones externas.  
+No hay nada generado por IA ni copiado de plantillas.  
+Cada sección fue escrita, revisada y ajustada a mano, línea por línea.
 
 ---
 
-### 🧩 Quick Facts
-- 🌎 Based in Buenos Aires, Argentina  
-- 🧠 Self-taught mindset & lifelong learner  
-- 💬 Fluent in English & Spanish  
-- 🚀 Focused on clean code, UX, and performance
+## 📬 Contacto
+
+- **Correo:** [tomasgz.dev@gmail.com](mailto:tomasgz.dev@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/tomasgz7](https://linkedin.com/in/tomasgz7)  
+- **GitHub:** [github.com/tomasgz7](https://github.com/tomasgz7)
 
 ---
 
-**© 2025 Tomas Guzman — Designed & developed by me using Astro.**
+## 🔎 En pocas palabras
+
+Este proyecto resume mi forma de trabajar:  
+> código claro, decisiones con sentido y diseño que acompaña la ingeniería.  
+
+---
+
+**© 2025 — Tomas Guzman**  
+Desarrollado íntegramente con **Astro**, **TypeScript** y **TailwindCSS**.
